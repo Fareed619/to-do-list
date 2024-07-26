@@ -1,0 +1,32 @@
+* {
+  list-style-type: none;
+}
+
+h1 {
+  color:beige;
+  text-align: center;
+  padding-right: 10px;
+}
+button {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  margin-left: 8px;
+}
+ul li {
+  color: white;
+  letter-spacing: 1.5px;
+  font-size: 30px;
+  width:100%
+}
+
+.input-add {
+  width: 60%;
+  height: 30px;
+  border: none; 
+  outline: none;
+  border-radius : 10px;
+  padding-left : 10px;
+  font-size:18px;
+  
+}
